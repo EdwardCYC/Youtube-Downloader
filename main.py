@@ -1,3 +1,10 @@
+"""
+Youtube Videos Downloader
+Version: 1.0
+Date: 22 November 2023
+"""
+
+
 from pytube import YouTube
 
 
@@ -17,7 +24,7 @@ User Inputs:
 """
 
 link = ''
-desired_resolution = '720p'
+desired_resolution = '360p'
 destination_folder = 'C:/Users/User/Downloads'
 
 yt_object = YouTube(link, on_progress_callback=on_progress)
