@@ -10,15 +10,19 @@ Command-line Python script for downloading videos from YouTube. Uses a progress 
 # Examples
 
 Example Video to Download:
+
 ![Example0.png](/images/Example0.png)
 
 Download started:
+
 ![Example 1.png](/images/Example1.png)
 
 Download in-progress:
+
 ![Example2.png](/images/Example2.png)
 
 Download finished:
+
 ![Example3.png](/images/Example3.png)
 
 # Software Information
